@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard showing live conditions, a 7-day forecast and air quality for **28 Indian cities** (state and UT capitals), built from the WeatherAPI.com forecast API.
 
-![Weather Report India](images/weather-dashboard-preview.png)
+![Weather Report India](images/weather-dashboard-preview.jpg)
 
 ## Problem
 - Weather for different Indian cities sits on separate pages, so comparing cities or checking air quality and rain chances together takes several lookups.
